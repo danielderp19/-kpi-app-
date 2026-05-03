@@ -1,0 +1,22 @@
+{
+  "name": "kpi-dashboard-mobile",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "KPI Dashboard móvil con IA integrada",
+  "author": "KPI Tracker Team",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^latest"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.0.8"
+  }
+}
